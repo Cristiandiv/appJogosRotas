@@ -9,8 +9,9 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
-</br>
+
 Home.
+</br>
 ![1](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/3bf6d60f-36fe-4fb3-b2d9-699d9ada17de).
 Dropdown com botôes.
 ![2](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/beb15b45-ef16-4ef8-9eb3-405ce59d4a7f).
