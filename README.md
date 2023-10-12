@@ -11,13 +11,11 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
 Home.
-![1](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/3bf6d60f-36fe-4fb3-b2d9-699d9ada17de)
-;
-Dropdown com botôes:
-![2](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/beb15b45-ef16-4ef8-9eb3-405ce59d4a7f)
-;
-Pagina 1:
-![3](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/4dbf2377-df12-4710-a712-a29311da6d74)
+![1](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/3bf6d60f-36fe-4fb3-b2d9-699d9ada17de).
+Dropdown com botôes.
+![2](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/beb15b45-ef16-4ef8-9eb3-405ce59d4a7f).
+Pagina 1.
+![3](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/4dbf2377-df12-4710-a712-a29311da6d74).
 
 Pagina 2:
 ![4](https://github.com/Cristiandiv/appJogosRotas/assets/132522844/c8ca354f-ceb0-4c39-9c09-8248c0c2511b)
